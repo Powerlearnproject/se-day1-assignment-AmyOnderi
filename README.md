@@ -51,6 +51,7 @@ Branching & Merging – Developers can create separate branches for new features
 Backup & Recovery – Prevents data loss by storing versions of code on remote repositories.
 Example of Version Control Systems are git. 
 
+
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Debugging and Fixing Bugs-identifying and fixing the bugs can be challenging. You can overcome this by using debugging tools. 
 Writting codes poorly can lead to slow development. To overcome this, use a refractor and cleaning up the code.  
